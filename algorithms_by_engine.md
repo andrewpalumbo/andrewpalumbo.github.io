@@ -1,6 +1,6 @@
 
-|                    | Single Machine | MapReduce | Spark | H2o |
----------------------------------------------|:----------------:|:-----------:|:-------:|
+|                    | Single Machine | MapReduce | Spark | h2o |
+---------------------------------------------|:----------------:|:-----------:|:------:|
 **Mahout DSL**| | | x | *in development*|
 **Collaborative Filtering**|
 User-Based Collaborative Filtering           | x |
@@ -35,5 +35,6 @@ Weighted Matrix Factorization, SVD++, Parallel SGD - | x |
     TF-IDF vectors from Text |  | x |
     XML Splitting|  | x |
     Email Archive Parser |  | x | 
+
 
 
