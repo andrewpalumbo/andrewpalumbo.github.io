@@ -1,7 +1,7 @@
 
-
 |                    | Single Machine | MapReduce | Spark |
 ---------------------------------------------|:----------------:|:-----------:|:-------:|
+**Mahout DSL**| | | x |
 **Collaborative Filtering**|
 User-Based Collaborative Filtering           | x |
 Item-Based Collaborative Filtering           | x | x | x |
