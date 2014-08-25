@@ -30,17 +30,17 @@ Weighted Matrix Factorization, SVD++, Parallel SGD  | x |
     Singular Value Decomposition | x | 
     Lanczos Algorithm  | x | x | 
     Stochastic SVD  | x | x | x |
-    Principal Component Analysis (via Stochastic SVD) | x | x |
+    PCA (via Stochastic SVD) | x | x |
 ||
 **Topic Models**||
     Latent Dirichlet Allocation  | x | x |
 ||
 **Miscellaneous**||
     Frequent Pattern Mining  |  | *deprecated* |
-    RowSimilarityJob - compute pairwise similarities between the rows of a matrix  |  | x | 
-    ConcatMatrices - combine 2 matrices or vectors into a single matrix |  | x |
-    Collocations - find co-locations of tokens in text |  | x |
-    Sparse TF-IDF vectorsfrom Text |  | x |
+    RowSimilarityJob   |  | x | 
+    ConcatMatrices  |  | x |
+    Collocations  |  | x |
+    Sparse TF-IDF Vectors from Text |  | x |
     XML Splitting|  | x |
     Email Archive Parser |  | x | 
 
