@@ -42,7 +42,7 @@ title: Mahout Features by Engine:
     Frequent Pattern Mining  |  | *deprecated* |
     RowSimilarityJob   |  | x | *in development* | 
     ConcatMatrices  |  | x |
-    Collocations  |  | x | *in development* 
+    Collocations  |  | x |  
     Sparse TF-IDF Vectors from Text |  | x |
     XML Parsing|  | x |
     Email Archive Parsing |  | x | 
