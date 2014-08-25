@@ -1,7 +1,7 @@
 
-|                    | Single Machine | MapReduce | Spark |
+|                    | Single Machine | MapReduce | Spark | H2o |
 ---------------------------------------------|:----------------:|:-----------:|:-------:|
-**Mahout DSL**| | | x |
+**Mahout DSL**| | | x | *in development*|
 **Collaborative Filtering**|
 User-Based Collaborative Filtering           | x |
 Item-Based Collaborative Filtering           | x | x | x |
@@ -10,7 +10,7 @@ Matrix Factorization with ALS on Implicit Feedback | x | x | x |
 Weighted Matrix Factorization, SVD++, Parallel SGD - | x |
 **Classification**| | |
  Spark Logistic Regression - trained via SGD   | x |
-    Naive Bayes/ Complementary Naive Bayes  | | x |
+    Naive Bayes/ Complementary Naive Bayes  | | x | *in development* |
     Random Forest | | x|
     Hidden Markov Models - single machine  | x |
     Multilayer Perceptron - single machine | x |
