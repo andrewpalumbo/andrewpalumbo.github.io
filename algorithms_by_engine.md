@@ -11,8 +11,8 @@ title: Mahout Features by Engine:
     User-Based Collaborative Filtering           | x |
     Item-Based Collaborative Filtering           | x | x | x |
     Matrix Factorization with ALS | x | x | x |
-    Matrix Factorization with ALS on Implicit Feedback | x | x | x |
-    Weighted Matrix Factorization, SVD++, Parallel SGD  | x | | *in development*|
+    Matrix Factorization with ALS on Implicit Feedback | x | x | *in development* |
+    Weighted Matrix Factorization, SVD++, Parallel SGD  | x | | 
 ||
 **Classification**| | |
     Logistic Regression - trained via SGD   | x |
@@ -42,7 +42,7 @@ title: Mahout Features by Engine:
     Frequent Pattern Mining  |  | *deprecated* |
     RowSimilarityJob   |  | x | *in development* | 
     ConcatMatrices  |  | x |
-    Collocations  |  | x |
+    Collocations  |  | x | *in development* 
     Sparse TF-IDF Vectors from Text |  | x |
     XML Parsing|  | x |
     Email Archive Parsing |  | x | 
