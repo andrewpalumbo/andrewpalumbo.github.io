@@ -3,7 +3,7 @@ title: Mahout Features by Engine:
 ---
 |                    | Single Machine | MapReduce | Spark | h2o 
 ---------------------------------------------|:----------------:|:-----------:|:------:|:---:|
-**Mahout DSL**| | | x | *in deveolopment*|
+**Mahout DSL**| | | x | *in development*|
 ||
 **Collaborative Filtering**|
 User-Based Collaborative Filtering           | x |
