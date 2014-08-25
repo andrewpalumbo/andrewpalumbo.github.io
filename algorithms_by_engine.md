@@ -29,10 +29,10 @@ Weighted Matrix Factorization, SVD++, Parallel SGD  | x |
     Spectral Clustering   |  | x |  
 ||
 **Dimensionality Reduction**||
-    Singular Value Decomposition | x | 
+    Singular Value Decomposition | x | | x |
     Lanczos Algorithm  | x | x | 
     Stochastic SVD  | x | x | x |
-    PCA (via Stochastic SVD) | x | x | x|
+    PCA (via Stochastic SVD) | x | x | x |
 ||
 **Topic Models**||
     Latent Dirichlet Allocation  | x | x |
@@ -44,7 +44,7 @@ Weighted Matrix Factorization, SVD++, Parallel SGD  | x |
     Collocations  |  | x |
     Sparse TF-IDF Vectors from Text |  | x |
     XML Parsing|  | x |
-    Email Archive Parser |  | x | 
+    Email Archive Parsing |  | x | 
     Lucene Integration |  | x |
     
 
