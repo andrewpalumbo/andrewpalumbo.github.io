@@ -1,21 +1,21 @@
 ---
 title: Mahout Features by Engine:
 ---
-|                    | Single Machine | MapReduce | Spark | h2o |Flink
+|                    | Single Machine | MapReduce | Spark | h2o | Flink
 ---------------------------------------------|:----------------:|:-----------:|:------:|:---:|:----:|
 **Mahout DSL**| | | x | *in development*|*in development*|
 ||
 **Mahout Interactive Shell**| | | x |
 ||
 **Collaborative Filtering**|
-User-Based Collaborative Filtering           | x |
-Item-Based Collaborative Filtering           | x | x | x |
-Matrix Factorization with ALS | x | x | x |
-Matrix Factorization with ALS on Implicit Feedback | x | x | x |
-Weighted Matrix Factorization, SVD++, Parallel SGD  | x |
+    User-Based Collaborative Filtering           | x |
+    Item-Based Collaborative Filtering           | x | x | x |
+    Matrix Factorization with ALS | x | x | x |
+    Matrix Factorization with ALS on Implicit Feedback | x | x | x |
+    Weighted Matrix Factorization, SVD++, Parallel SGD  | x | | *in development*|
 ||
 **Classification**| | |
- Spark Logistic Regression - trained via SGD   | x |
+    Logistic Regression - trained via SGD   | x |
     Naive Bayes/ Complementary Naive Bayes  | | x | *in development* |
     Random Forest | | x|
     Hidden Markov Models - single machine  | x |
@@ -33,6 +33,7 @@ Weighted Matrix Factorization, SVD++, Parallel SGD  | x |
     Lanczos Algorithm  | x | x | 
     Stochastic SVD  | x | x | x |
     PCA (via Stochastic SVD) | x | x | x |
+    QR Decomposition         | x | x | x |
 ||
 **Topic Models**||
     Latent Dirichlet Allocation  | x | x |
