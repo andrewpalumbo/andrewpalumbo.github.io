@@ -29,7 +29,7 @@ title: Mahout Features by Engine:
     Spectral Clustering   |  | x |  
 ||
 **Dimensionality Reduction**||
-    Singular Value Decomposition | x | | x |
+    Singular Value Decomposition | x | x | X|
     Lanczos Algorithm  | x | x | 
     Stochastic SVD  | x | x | x |
     PCA (via Stochastic SVD) | x | x | x |
