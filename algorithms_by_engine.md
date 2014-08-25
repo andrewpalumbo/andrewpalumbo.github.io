@@ -5,6 +5,8 @@ title: Mahout Features by Engine:
 ---------------------------------------------|:----------------:|:-----------:|:------:|:---:|
 **Mahout DSL**| | | x | *in development*|
 ||
+**Mahout Interactive Shell**| | | x |
+||
 **Collaborative Filtering**|
 User-Based Collaborative Filtering           | x |
 Item-Based Collaborative Filtering           | x | x | x |
