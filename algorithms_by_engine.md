@@ -3,7 +3,7 @@ title: Mahout Features by Engine:
 ---
 |                    | Single Machine | MapReduce | Spark | h2o 
 ---------------------------------------------|:----------------:|:-----------:|:------:|:---:|
-**Mahout DSL**| | | x | *in dev*|
+**Mahout DSL**| | | x | *in deveolopment*|
 ||
 **Collaborative Filtering**|
 User-Based Collaborative Filtering           | x |
@@ -14,7 +14,7 @@ Weighted Matrix Factorization, SVD++, Parallel SGD  | x |
 ||
 **Classification**| | |
  Spark Logistic Regression - trained via SGD   | x |
-    Naive Bayes/ Complementary Naive Bayes  | | x | *in dev* |
+    Naive Bayes/ Complementary Naive Bayes  | | x | *in development* |
     Random Forest | | x|
     Hidden Markov Models - single machine  | x |
     Multilayer Perceptron - single machine | x |
