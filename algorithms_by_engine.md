@@ -41,8 +41,10 @@ Weighted Matrix Factorization, SVD++, Parallel SGD  | x |
     ConcatMatrices  |  | x |
     Collocations  |  | x |
     Sparse TF-IDF Vectors from Text |  | x |
-    XML Splitting|  | x |
+    XML Parsing|  | x |
     Email Archive Parser |  | x | 
+    Lucene Integration |  | x |
+    
 
 
 
