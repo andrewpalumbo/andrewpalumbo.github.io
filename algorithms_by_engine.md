@@ -1,5 +1,5 @@
 ---
-title:Mahout Features by Engine:
+title: Mahout Features by Engine:
 ---
 |                    | Single Machine | MapReduce | Spark | h2o 
 ---------------------------------------------|:----------------:|:-----------:|:------:|:---:|
