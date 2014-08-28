@@ -3,7 +3,7 @@ title: Mahout Features by Engine:
 ---
 |                    | Single Machine | MapReduce | Spark | h2o | Flink
 ---------------------------------------------|:----------------:|:-----------:|:------:|:---:|:----:|
-**Mahout DSL**| | | x | *in development*|*in development*|
+**Mahout DSL**| | | x | x |*in development*|
 ||
 **Mahout Interactive Shell**| | | x |
 ||
