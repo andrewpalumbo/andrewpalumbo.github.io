@@ -4,7 +4,7 @@ title: Mahout Features by Engine:
 |                    | Single Machine | MapReduce | Spark | h2o | Flink
 ---------------------------------------------|:----------------:|:-----------:|:------:|:---:|:----:|
 **Mahout DSL**| 
-|   Mahout Distributed BLAS. DRM api with R and Matlab like operators. Distributed ALS, SPCA, SSVD, QR. Similarity Analysis.      | x | *in development* |*in development*|
+|   Mahout Distributed BLAS. DRM api with R and Matlab like operators. Distributed ALS, SPCA, SSVD, QR. Similarity Analysis.    ||  | x | *in development* |*in development*|
 ||
 **Mahout Interactive Shell**| 
 |   Interactive REPL shell for Spark optimized Mahout DSL | | | x |
