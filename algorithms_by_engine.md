@@ -3,7 +3,7 @@ title: Mahout Features by Engine:
 ---
 |                    | Single Machine | MapReduce | Spark | h2o | Flink
 ---------------------------------------------|:----------------:|:-----------:|:------:|:---:|:----:|
-**Mahout DSL**| | | x | x |*in development*|
+**Mahout DSL**| | | x | *in development* |*in development*|
 ||
 **Mahout Interactive Shell**| | | x |
 ||
@@ -40,7 +40,7 @@ title: Mahout Features by Engine:
 ||
 **Miscellaneous**||
     Frequent Pattern Mining  |  | *deprecated* |
-    RowSimilarityJob   |  | x | *in development* | 
+    RowSimilarityJob   |  | x | x | 
     ConcatMatrices  |  | x |
     Collocations  |  | x |  
     Sparse TF-IDF Vectors from Text |  | x |
