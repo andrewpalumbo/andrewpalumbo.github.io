@@ -47,6 +47,7 @@ title: Mahout Features by Engine:
     XML Parsing|  | x |
     Email Archive Parsing |  | x | 
     Lucene Integration |  | x |
+    Evolutionary Process | x |
     
 
 
