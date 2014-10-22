@@ -5,7 +5,7 @@ title: Mahout Features by Engine:
 
 | | Single Machine | MapReduce | Spark | h2o | Flink
 ---------------------------------------------|:----------------:|:-----------:|:------:|:---:|:----:|
-(**Mahout Scala DSL**)[http://mahout.apache.org/users/sparkbindings/home.html]| 
+[**Mahout Scala DSL**](http://mahout.apache.org/users/sparkbindings/home.html)| 
 |   Mahout Distributed BLAS. Distributed Row Matrix API with R and Matlab like operators. Distributed ALS, SPCA, SSVD, thin-QR. Similarity Analysis.    | |  | x | x |*in development*|
 ||
 **Mahout Interactive Shell**| 
@@ -19,7 +19,7 @@ title: Mahout Features by Engine:
     Weighted Matrix Factorization, SVD++  | x | | 
 ||
 **CLI Based Classification**| | |
-    (Logistic Regression - trained via SGD)[http://mahout.apache.org/users/classification/logistic-regression.html]   | x |
+    [Logistic Regression - trained via SGD](http://mahout.apache.org/users/classification/logistic-regression.html)   | x |
     Naive Bayes / Complementary Naive Bayes  | | x | *in development* |  *in development*
     Random Forest | | x|
     Hidden Markov Models - single machine  | x |
