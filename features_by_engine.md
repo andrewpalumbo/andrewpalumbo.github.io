@@ -1,10 +1,11 @@
 ---
 title: Mahout Features by Engine:
 ---
-|***Mahout 1.0 Features by Engine***| Single Machine | MapReduce | Spark | h2o | Flink
+*Mahout 1.0 Features by Engine*
+| | Single Machine | MapReduce | Spark | h2o | Flink
 ---------------------------------------------|:----------------:|:-----------:|:------:|:---:|:----:|
 **Mahout Scala DSL**| 
-|   Mahout Distributed BLAS. Distributed Row Matrix API with R and Matlab like operators. Distributed ALS, SPCA, SSVD, QR. Similarity Analysis.    | |  | x | x |*in development*|
+|   Mahout Distributed BLAS. Distributed Row Matrix API with R and Matlab like operators. Distributed ALS, SPCA, SSVD, Thin-QR. Similarity Analysis.    | |  | x | x |*in development*|
 ||
 **Mahout Interactive Shell**| 
 |   Interactive REPL shell for Spark optimized Mahout DSL | | | x |
@@ -13,7 +14,7 @@ title: Mahout Features by Engine:
     User-Based Collaborative Filtering           | x |   | x |
     Item-Based Collaborative Filtering           | x | x | x |
     Matrix Factorization with ALS | x | x |  |
-    Matrix Factorization with ALS on Implicit Feedback | x | x | *in development* |
+    Matrix Factorization with ALS on Implicit Feedback | x | x |  |
     Weighted Matrix Factorization, SVD++  | x | | 
 ||
 **CLI Based Classification**| | |
