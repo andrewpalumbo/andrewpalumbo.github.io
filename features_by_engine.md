@@ -8,7 +8,7 @@ title: Mahout Features by Engine:
 **Mahout Scala DSL**| 
 |   [Mahout Distributed BLAS. Distributed Row Matrix API with R and Matlab like operators. Distributed ALS, SPCA, SSVD, thin-QR. Similarity Analysis](http://mahout.apache.org/users/sparkbindings/home.html).    | |  | x | x |*in development*|
 ||
-**Mahout Interactive Shell**(http://mahout.apache.org/users/sparkbindings/play-with-shell.html)| 
+**Mahout Interactive Shell**| 
 |   [Interactive REPL shell for Spark optimized Mahout DSL](http://mahout.apache.org/users/sparkbindings/play-with-shell.html) | | | x |
 ||
 **CLI Based Collabritive Filtering**|
