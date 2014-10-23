@@ -12,7 +12,7 @@ title: Mahout Features by Engine:
 |   [Interactive REPL shell for Spark optimized Mahout DSL](http://mahout.apache.org/users/sparkbindings/play-with-shell.html) | | | x |
 ||
 **CLI Based Collabritive Filtering**|
-    User-Based Collaborative Filtering           | |  |[x](https://github.com/apache/mahout/blob/master/spark/src/test/scala/org/apache/mahout/drivers/RowSimilarityDriverSuite.scala)
+    User-Based Collaborative Filtering           | x |  |[x](https://github.com/apache/mahout/blob/master/spark/src/test/scala/org/apache/mahout/drivers/RowSimilarityDriverSuite.scala)
     Item-Based Collaborative Filtering           | x | [x](https://mahout.apache.org/users/recommender/intro-itembased-hadoop.html) | [x](https://mahout.apache.org/users/recommender/intro-cooccurrence-spark.html) |
     Matrix Factorization with ALS | x | [x](https://mahout.apache.org/users/recommender/intro-als-hadoop.html) |  |
     Matrix Factorization with ALS on Implicit Feedback | x | [x](https://mahout.apache.org/users/recommender/intro-als-hadoop.html) |  |
