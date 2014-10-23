@@ -46,10 +46,10 @@ title: Mahout Features by Engine:
     RowSimilarityJob   |  | x | x | 
     ConcatMatrices  |  | x |
     Collocations  |  | [x](https://mahout.apache.org/users/basics/collocations.html) |  
-    Sparse TF-IDF Vectors from Text |  | x |
-    XML Parsing|  | x |
+    Sparse TF-IDF Vectors from Text |  | [x](https://mahout.apache.org/users/basics/creating-vectors-from-text.html) |
+    XML Parsing|  | [x](https://issues.apache.org/jira/browse/MAHOUT-1479?jql=text%20~%20%22wikipedia%20mahout%22) |
     Email Archive Parsing |  | x | 
-    Lucene Integration |  | x |
+    Lucene Integration |  | [x](https://mahout.apache.org/users/basics/creating-vectors-from-text.html) |
     Evolutionary Processes | x |
     
 
