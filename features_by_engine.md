@@ -32,7 +32,8 @@ title: Mahout Features by Engine:
     Streaming k-Means   | [x](https://mahout.apache.org/users/clustering/streaming-k-means.html) | [x](https://mahout.apache.org/users/clustering/streaming-k-means.html) |  
     Spectral Clustering   |  | [x](https://mahout.apache.org/users/clustering/spectral-clustering.html) |  
 ||
-**CLI Based Dimensionality Reduction**- note: most Dimensionality reductions are available through the [DSL for all engines](https://mahout.apache.org/users/sparkbindings/home.html)||
+**CLI Based Dimensionality Reduction**- note: most dimensionality reduction algorithms
+ are available through the [DSL for all engines](https://mahout.apache.org/users/sparkbindings/home.html)||
     Singular Value Decomposition | x | x | |
     Lanczos Algorithm  | x | x | 
     Stochastic SVD  | [x](https://mahout.apache.org/users/dim-reduction/ssvd.html) | [x](https://mahout.apache.org/users/dim-reduction/ssvd.html) |  |
