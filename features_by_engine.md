@@ -26,16 +26,16 @@ title: Mahout Features by Engine:
     Multilayer Perceptron - single machine | x |
 ||
 **CLI Based Clustering**||
-    Canopy Clustering  | *deprecated* | *deprecated*| 
-    k-Means Clustering   | x | x |  
-    Fuzzy k-Means   | x | x |  
-    Streaming k-Means   | x | x |  
-    Spectral Clustering   |  | x |  
+    Canopy Clustering  | [*deprecated*](https://mahout.apache.org/users/clustering/canopy-clustering.html) | [*deprecated*](https://mahout.apache.org/users/clustering/canopy-clustering.html)| 
+    k-Means Clustering   | [x](https://mahout.apache.org/users/clustering/k-means-clustering.html) | [x](https://mahout.apache.org/users/clustering/k-means-clustering.html) |  
+    Fuzzy k-Means   | [x](https://mahout.apache.org/users/clustering/fuzzy-k-means.html) | [x](https://mahout.apache.org/users/clustering/fuzzy-k-means.html)|  
+    Streaming k-Means   | [x](https://mahout.apache.org/users/clustering/streaming-k-means.html) | [x](https://mahout.apache.org/users/clustering/streaming-k-means.html) |  
+    Spectral Clustering   |  | [x](https://mahout.apache.org/users/clustering/spectral-clustering.html) |  
 ||
-**CLI Based Dimensionality Reduction**||
+**CLI Based Dimensionality Reduction**- note: most Dimensionality reductions are available through the [DSL for all engines](https://mahout.apache.org/users/sparkbindings/home.html)||
     Singular Value Decomposition | x | x | |
     Lanczos Algorithm  | x | x | 
-    Stochastic SVD  | x | x |  |
+    Stochastic SVD  | [x](https://mahout.apache.org/users/dim-reduction/ssvd.html) | [x](https://mahout.apache.org/users/dim-reduction/ssvd.html) |  |
     PCA (via Stochastic SVD) | x | x |  |
     QR Decomposition         | x | x |  |
 ||
@@ -45,7 +45,7 @@ title: Mahout Features by Engine:
 **Miscellaneous**||
     RowSimilarityJob   |  | x | x | 
     ConcatMatrices  |  | x |
-    Collocations  |  | x |  
+    Collocations  |  | [x](https://mahout.apache.org/users/basics/collocations.html) |  
     Sparse TF-IDF Vectors from Text |  | x |
     XML Parsing|  | x |
     Email Archive Parsing |  | x | 
