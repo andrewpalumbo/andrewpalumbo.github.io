@@ -14,15 +14,15 @@ title: Mahout Features by Engine:
 **CLI Based Collabritive Filtering**|
     User-Based Collaborative Filtering           | [x](https://mahout.apache.org/users/recommender/userbased-5-minutes.html) |
     Item-Based Collaborative Filtering           | x | [x](https://mahout.apache.org/users/recommender/intro-itembased-hadoop.html) | [x](https://mahout.apache.org/users/recommender/intro-cooccurrence-spark.html) |
-    Matrix Factorization with ALS | x | x |  |
-    Matrix Factorization with ALS on Implicit Feedback | x | x |  |
+    Matrix Factorization with ALS | x | [x](https://mahout.apache.org/users/recommender/intro-als-hadoop.html) |  |
+    Matrix Factorization with ALS on Implicit Feedback | x | [x](https://mahout.apache.org/users/recommender/intro-als-hadoop.html) |  |
     Weighted Matrix Factorization, SVD++  | x | | 
 ||
 **CLI Based Classification**| | |
     [Logistic Regression - trained via SGD](http://mahout.apache.org/users/classification/logistic-regression.html)   | x |
-    Naive Bayes / Complementary Naive Bayes  | | x | *in development* |  *in development*
-    Random Forest | | x|
-    Hidden Markov Models - single machine  | x |
+    Naive Bayes / Complementary Naive Bayes  | | [x](https://mahout.apache.org/users/classification/bayesian.html) | [*in development*](https://issues.apache.org/jira/browse/MAHOUT-1493) |  *in development*
+    Random Forest | | [x](https://mahout.apache.org/users/classification/partial-implementation.html)|
+    Hidden Markov Models - single machine  | [x](https://mahout.apache.org/users/classification/hidden-markov-models.html) |
     Multilayer Perceptron - single machine | x |
 ||
 **CLI Based Clustering**||
