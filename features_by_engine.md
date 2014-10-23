@@ -50,7 +50,7 @@ title: Mahout Features by Engine:
     XML Parsing|  | [x](https://issues.apache.org/jira/browse/MAHOUT-1479?jql=text%20~%20%22wikipedia%20mahout%22) |
     Email Archive Parsing |  | [x](https://github.com/apache/mahout/tree/master/integration/src/main/java/org/apache/mahout/text) | 
     Lucene Integration |  | [x](https://mahout.apache.org/users/basics/creating-vectors-from-text.html) |
-    Evolutionary Processes | x |
+    Evolutionary Processes | [x](https://github.com/apache/mahout/tree/master/mrlegacy/src/main/java/org/apache/mahout/ep) |
     
 
 
