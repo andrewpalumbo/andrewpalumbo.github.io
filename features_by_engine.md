@@ -19,7 +19,7 @@ title: Mahout Features by Engine:
     Weighted Matrix Factorization, SVD++  | x | | 
 ||
 **CLI Based Classification**| | |
-    [Logistic Regression - trained via SGD](http://mahout.apache.org/users/classification/logistic-regression.html)   | x |
+    Logistic Regression - trained via SGD   | [x](http://mahout.apache.org/users/classification/logistic-regression.html) |
     Naive Bayes / Complementary Naive Bayes  | | [x](https://mahout.apache.org/users/classification/bayesian.html) | [*in development*](https://issues.apache.org/jira/browse/MAHOUT-1493) |  *in development*
     Random Forest | | [x](https://mahout.apache.org/users/classification/partial-implementation.html)|
     Hidden Markov Models - single machine  | [x](https://mahout.apache.org/users/classification/hidden-markov-models.html) |
