@@ -11,28 +11,28 @@ title: Mahout Features by Engine:
 **Mahout Interactive Shell**| 
 |   [Interactive REPL shell for Spark optimized Mahout DSL](http://mahout.apache.org/users/sparkbindings/play-with-shell.html) | | | x |
 ||
-**Collabritive Filtering** with CLI Drivers|
+**Collabritive Filtering** *with CLI Drivers*|
     User-Based Collaborative Filtering           | x |  |[x](https://github.com/apache/mahout/blob/master/spark/src/test/scala/org/apache/mahout/drivers/RowSimilarityDriverSuite.scala)
     Item-Based Collaborative Filtering           | x | [x](https://mahout.apache.org/users/recommender/intro-itembased-hadoop.html) | [x](https://mahout.apache.org/users/recommender/intro-cooccurrence-spark.html) |
     Matrix Factorization with ALS | x | [x](https://mahout.apache.org/users/recommender/intro-als-hadoop.html) |  |
     Matrix Factorization with ALS on Implicit Feedback | x | [x](https://mahout.apache.org/users/recommender/intro-als-hadoop.html) |  |
     Weighted Matrix Factorization, SVD++  | x | | 
 ||
-**Classification** with CLI Drivers| | |
+**Classification** *with CLI Drivers*| | |
     Logistic Regression - trained via SGD   | [x](http://mahout.apache.org/users/classification/logistic-regression.html) |
     Naive Bayes / Complementary Naive Bayes  | | [x](https://mahout.apache.org/users/classification/bayesian.html) | [*in development*](https://issues.apache.org/jira/browse/MAHOUT-1493) |  *in development*
     Random Forest | | [x](https://mahout.apache.org/users/classification/partial-implementation.html)|
     Hidden Markov Models - single machine  | [x](https://mahout.apache.org/users/classification/hidden-markov-models.html) |
     Multilayer Perceptron - single machine | x |
 ||
-**Clustering** with CLI Drivers||
+**Clustering** *with CLI Drivers*||
     Canopy Clustering  | [*deprecated*](https://mahout.apache.org/users/clustering/canopy-clustering.html) | [*deprecated*](https://mahout.apache.org/users/clustering/canopy-clustering.html)| 
     k-Means Clustering   | [x](https://mahout.apache.org/users/clustering/k-means-clustering.html) | [x](https://mahout.apache.org/users/clustering/k-means-clustering.html) |  
     Fuzzy k-Means   | [x](https://mahout.apache.org/users/clustering/fuzzy-k-means.html) | [x](https://mahout.apache.org/users/clustering/fuzzy-k-means.html)|  
     Streaming k-Means   | [x](https://mahout.apache.org/users/clustering/streaming-k-means.html) | [x](https://mahout.apache.org/users/clustering/streaming-k-means.html) |  
     Spectral Clustering   |  | [x](https://mahout.apache.org/users/clustering/spectral-clustering.html) |  
 ||
-**CLI Based Dimensionality Reduction**- note: most dimensionality reduction algorithms are available through the [Math-Scala Core for all engines](https://mahout.apache.org/users/sparkbindings/home.html)||
+**Dimensionality Reduction** *with CLI Drivers* - note: most dimensionality reduction algorithms are available through the [Math-Scala Core for all engines](https://mahout.apache.org/users/sparkbindings/home.html)||
     Singular Value Decomposition | x | x | |
     Lanczos Algorithm  | x | x | 
     Stochastic SVD  | [x](https://mahout.apache.org/users/dim-reduction/ssvd.html) | [x](https://mahout.apache.org/users/dim-reduction/ssvd.html) |  |
