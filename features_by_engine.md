@@ -12,7 +12,7 @@ title: Mahout Features by Engine:
 |   [Interactive REPL shell for Spark optimized Mahout DSL](http://mahout.apache.org/users/sparkbindings/play-with-shell.html) | | | x |
 ||
 **CLI Based Collabritive Filtering**|
-    User-Based Collaborative Filtering           | [x](https://mahout.apache.org/users/recommender/userbased-5-minutes.html) | [x](https://github.com/apache/mahout/blob/master/spark/src/test/scala/org/apache/mahout/drivers/RowSimilarityDriverSuite.scala)
+    User-Based Collaborative Filtering           | [x](https://github.com/apache/mahout/blob/master/spark/src/test/scala/org/apache/mahout/drivers/RowSimilarityDriverSuite.scala)
     Item-Based Collaborative Filtering           | x | [x](https://mahout.apache.org/users/recommender/intro-itembased-hadoop.html) | [x](https://mahout.apache.org/users/recommender/intro-cooccurrence-spark.html) |
     Matrix Factorization with ALS | x | [x](https://mahout.apache.org/users/recommender/intro-als-hadoop.html) |  |
     Matrix Factorization with ALS on Implicit Feedback | x | [x](https://mahout.apache.org/users/recommender/intro-als-hadoop.html) |  |
@@ -48,7 +48,7 @@ title: Mahout Features by Engine:
     Collocations  |  | [x](https://mahout.apache.org/users/basics/collocations.html) |  
     Sparse TF-IDF Vectors from Text |  | [x](https://mahout.apache.org/users/basics/creating-vectors-from-text.html) |
     XML Parsing|  | [x](https://issues.apache.org/jira/browse/MAHOUT-1479?jql=text%20~%20%22wikipedia%20mahout%22) |
-    Email Archive Parsing |  | x | 
+    Email Archive Parsing |  | [x](https://github.com/apache/mahout/tree/master/integration/src/main/java/org/apache/mahout/text) | 
     Lucene Integration |  | [x](https://mahout.apache.org/users/basics/creating-vectors-from-text.html) |
     Evolutionary Processes | x |
     
