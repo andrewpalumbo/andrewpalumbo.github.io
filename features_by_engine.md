@@ -5,7 +5,7 @@ title: Mahout Features by Engine:
 
 | | Single Machine | [MapReduce](http://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html)| [Spark](https://spark.apache.org/) | [H2O](http://0xdata.com/) | [Flink](https://flink.incubator.apache.org/)
 ---------------------------------------------|:----------------:|:-----------:|:------:|:---:|:----:|
-**Mahout Math-Scala Core and Scala DSL**| 
+**Mahout Math-Scala Core Core Library and Scala DSL**| 
 |   [Mahout Distributed BLAS. Distributed Row Matrix API with R and Matlab like operators. Distributed ALS, SPCA, SSVD, thin-QR. Similarity Analysis](http://mahout.apache.org/users/sparkbindings/home.html).    | |  | [x](https://mahout.apache.org/users/sparkbindings/ScalaSparkBindings.pdf) | [x](https://github.com/apache/mahout/tree/master/h2o) |[*in development*](https://github.com/tillrohrmann/mahout/tree/flink-bindings/flink)|
 ||
 **Mahout Interactive Shell**| 
@@ -32,7 +32,7 @@ title: Mahout Features by Engine:
     Streaming k-Means   | [x](https://mahout.apache.org/users/clustering/streaming-k-means.html) | [x](https://mahout.apache.org/users/clustering/streaming-k-means.html) |  
     Spectral Clustering   |  | [x](https://mahout.apache.org/users/clustering/spectral-clustering.html) |  
 ||
-**Dimensionality Reduction** *with CLI Drivers - note: most dimensionality reduction algorithms are available through the [Math-Scala Core for all engines](https://mahout.apache.org/users/sparkbindings/home.html)*||
+**Dimensionality Reduction** *with CLI Drivers - note: most dimensionality reduction algorithms are available through the [Math-Scala Core for all engines](https://mahout.apache.org/users/sparkbindings/home.html)||
     Singular Value Decomposition | x | x | |
     Lanczos Algorithm  | x | x | 
     Stochastic SVD  | [x](https://mahout.apache.org/users/dim-reduction/ssvd.html) | [x](https://mahout.apache.org/users/dim-reduction/ssvd.html) |  |
