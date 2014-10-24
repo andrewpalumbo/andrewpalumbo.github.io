@@ -5,7 +5,7 @@ title: Mahout Features by Engine:
 
 | | Single Machine | [MapReduce](http://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html)| [Spark](https://spark.apache.org/) | [H2O](http://0xdata.com/) | [Flink](https://flink.incubator.apache.org/)
 ---------------------------------------------|:----------------:|:-----------:|:------:|:---:|:----:|
-**Mahout Math-Scala Core Core Library and Scala DSL**| 
+**Mahout Math-Scala Core Library and Scala DSL**| 
 |   [Mahout Distributed BLAS. Distributed Row Matrix API with R and Matlab like operators. Distributed ALS, SPCA, SSVD, thin-QR. Similarity Analysis](http://mahout.apache.org/users/sparkbindings/home.html).    | |  | [x](https://mahout.apache.org/users/sparkbindings/ScalaSparkBindings.pdf) | [x](https://github.com/apache/mahout/tree/master/h2o) |[*in development*](https://github.com/tillrohrmann/mahout/tree/flink-bindings/flink)|
 ||
 **Mahout Interactive Shell**| 
